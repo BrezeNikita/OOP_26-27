@@ -4,13 +4,13 @@ namespace Laba1
 {
     class Program
     {
-        static int IntEnter(string name) 
+        static int IntEnter(string name)
         {
             var buf = "";
             int value;
             while (!int.TryParse(buf, out value))
             {
-                Console.Write("Введите значение " + name + ": ");
+                Console.Write("Введите " + name + ": ");
                 buf = Console.ReadLine();
             }
             return value;
@@ -58,8 +58,8 @@ namespace Laba1
             double a_double = 1000;
             double b_double = 0.0001;
 
-            float a_float = (float) a_double;
-            float b_float = (float) b_double;
+            float a_float = (float)a_double;
+            float b_float = (float)b_double;
 
             float numerator_f = ((float)Math.Pow((a_float - b_float), 3) - (float)Math.Pow(a_float, 3));
             float num1_f = 3 * a_float * (float)Math.Pow(b_float, 2);
@@ -80,11 +80,11 @@ namespace Laba1
         {
             int choice = 0;
 
-            while(choice != 4)
+            while (choice != 4)
             {
                 Console.WriteLine("\nВыберите задание \n 1 - Задание 1\n 2 - Задание 2\n " +
                     "3 - Задание 3\n 4 - Выход\n");
-                choice = Convert.ToInt32(Console.ReadLine());
+                choice = IntEnter("номер команды, которую вы выбираете");
 
                 switch (choice)
                 {

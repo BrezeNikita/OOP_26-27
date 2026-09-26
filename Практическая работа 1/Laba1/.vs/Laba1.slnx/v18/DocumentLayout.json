@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nneke\\source\\repos\\Laba1\\",
+  "WorkspaceRootPath": "C:\\Users\\nneke\\Documents\\GitHub\\OOP_26-27\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 1\\Laba1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8726FB49-4F3A-A407-C30A-D18735B8A03B}|Laba1\\Laba1.csproj|c:\\users\\nneke\\source\\repos\\laba1\\laba1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8726FB49-4F3A-A407-C30A-D18735B8A03B}|Laba1\\Laba1.csproj|c:\\users\\nneke\\documents\\github\\oop_26-27\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 1\\laba1\\laba1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8726FB49-4F3A-A407-C30A-D18735B8A03B}|Laba1\\Laba1.csproj|solutionrelative:laba1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nneke\\source\\repos\\Laba1\\Laba1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\nneke\\Documents\\GitHub\\OOP_26-27\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 1\\Laba1\\Laba1\\Program.cs",
               "RelativeDocumentMoniker": "Laba1\\Program.cs",
-              "ToolTip": "C:\\Users\\nneke\\source\\repos\\Laba1\\Laba1\\Program.cs",
+              "ToolTip": "C:\\Users\\nneke\\Documents\\GitHub\\OOP_26-27\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 1\\Laba1\\Laba1\\Program.cs",
               "RelativeToolTip": "Laba1\\Program.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAswCcAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-24T17:33:47.371Z",
               "EditorCaption": ""
