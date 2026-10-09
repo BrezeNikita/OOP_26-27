@@ -1,0 +1,29 @@
+C:\Users\nneke\source\repos\Laba3\Laba3\bin\Debug\net10.0\Laba3.exe
+C:\Users\nneke\source\repos\Laba3\Laba3\bin\Debug\net10.0\Laba3.deps.json
+C:\Users\nneke\source\repos\Laba3\Laba3\bin\Debug\net10.0\Laba3.runtimeconfig.json
+C:\Users\nneke\source\repos\Laba3\Laba3\bin\Debug\net10.0\Laba3.dll
+C:\Users\nneke\source\repos\Laba3\Laba3\bin\Debug\net10.0\Laba3.pdb
+C:\Users\nneke\source\repos\Laba3\Laba3\obj\Debug\net10.0\Laba3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nneke\source\repos\Laba3\Laba3\obj\Debug\net10.0\Laba3.AssemblyInfoInputs.cache
+C:\Users\nneke\source\repos\Laba3\Laba3\obj\Debug\net10.0\Laba3.AssemblyInfo.cs
+C:\Users\nneke\source\repos\Laba3\Laba3\obj\Debug\net10.0\Laba3.csproj.CoreCompileInputs.cache
+C:\Users\nneke\source\repos\Laba3\Laba3\obj\Debug\net10.0\Laba3.dll
+C:\Users\nneke\source\repos\Laba3\Laba3\obj\Debug\net10.0\refint\Laba3.dll
+C:\Users\nneke\source\repos\Laba3\Laba3\obj\Debug\net10.0\Laba3.pdb
+C:\Users\nneke\source\repos\Laba3\Laba3\obj\Debug\net10.0\Laba3.genruntimeconfig.cache
+C:\Users\nneke\source\repos\Laba3\Laba3\obj\Debug\net10.0\ref\Laba3.dll
+C:\Users\nneke\Documents\GitHub\OOP_26-27\Практическая работа 2\Laba3\Laba3\bin\Debug\net10.0\Laba3.exe
+C:\Users\nneke\Documents\GitHub\OOP_26-27\Практическая работа 2\Laba3\Laba3\bin\Debug\net10.0\Laba3.deps.json
+C:\Users\nneke\Documents\GitHub\OOP_26-27\Практическая работа 2\Laba3\Laba3\bin\Debug\net10.0\Laba3.runtimeconfig.json
+C:\Users\nneke\Documents\GitHub\OOP_26-27\Практическая работа 2\Laba3\Laba3\bin\Debug\net10.0\Laba3.dll
+C:\Users\nneke\Documents\GitHub\OOP_26-27\Практическая работа 2\Laba3\Laba3\bin\Debug\net10.0\Laba3.pdb
+C:\Users\nneke\Documents\GitHub\OOP_26-27\Практическая работа 2\Laba3\Laba3\obj\Debug\net10.0\Laba3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nneke\Documents\GitHub\OOP_26-27\Практическая работа 2\Laba3\Laba3\obj\Debug\net10.0\Laba3.AssemblyInfoInputs.cache
+C:\Users\nneke\Documents\GitHub\OOP_26-27\Практическая работа 2\Laba3\Laba3\obj\Debug\net10.0\Laba3.AssemblyInfo.cs
+C:\Users\nneke\Documents\GitHub\OOP_26-27\Практическая работа 2\Laba3\Laba3\obj\Debug\net10.0\Laba3.csproj.CoreCompileInputs.cache
+C:\Users\nneke\Documents\GitHub\OOP_26-27\Практическая работа 2\Laba3\Laba3\obj\Debug\net10.0\Laba3.sourcelink.json
+C:\Users\nneke\Documents\GitHub\OOP_26-27\Практическая работа 2\Laba3\Laba3\obj\Debug\net10.0\Laba3.dll
+C:\Users\nneke\Documents\GitHub\OOP_26-27\Практическая работа 2\Laba3\Laba3\obj\Debug\net10.0\refint\Laba3.dll
+C:\Users\nneke\Documents\GitHub\OOP_26-27\Практическая работа 2\Laba3\Laba3\obj\Debug\net10.0\Laba3.pdb
+C:\Users\nneke\Documents\GitHub\OOP_26-27\Практическая работа 2\Laba3\Laba3\obj\Debug\net10.0\Laba3.genruntimeconfig.cache
+C:\Users\nneke\Documents\GitHub\OOP_26-27\Практическая работа 2\Laba3\Laba3\obj\Debug\net10.0\ref\Laba3.dll
